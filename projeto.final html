@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="shortcut icon" href="img/ods9 icon.png" type="image/x-icon">
+    <title> ODS 9 </title>
+</head>
+<body>
+
+    <div class="parte1">
+        <div class="header">
+            
+           <div class="inc"> 
+            <img src="./img/Free Simple Modern Circle Design Studio Logo (2) (1) (1).png" height="90px" width="200px">
+           </div> 
+            <div class="rest">
+                <a href="#paginainc"> Página inicial </a>
+                <a href="#metas"> Metas </a>
+                <a href="#cmj"> Como ajudar? </a> 
+                <a href="#duvidas"> Dúvidas </a> 
+                <a href="#saibamais"> Saiba mais </a> 
+        </div>
+    </div>
+        <div class="lowtitle">      
+            <h2> ODS-9 </h2>
+            <h1 class="titulo1"> Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação. </h1>
+        </div> 
+    </div>
+    <div class="parte2"> 
+        <div> 
+        <div id="paginainc"> <h1 class="titulo2"> ODS#9 - Indústria, inovação e infraestrutura </h1> </div>
+        </div>
+       <div class="paragrafo"> 
+            <div> 
+                <p> O nono Objetivo de Desenvolvimento Sustentável é baseado no conceito de construção de infraestruturas responsáveis, promover a industrialização sustentável e abranger a inovação.
+                    Sua importância é dada através de seus compromissos com a nação para bons projetos de infraestruturas resilientes, visando o bem-estar produtivo e humano. 
+                    Além disso, faz parte de seus objetivos a idealização de desenvolvimento renovável das indústrias e, complementando a inovação de projetos, tecnologias e ideias.
+                </p>
+            </div>
+            <div>
+                <img src="./img/Free Simple Modern Circle Design Studio Logo.png" alt="Não foi possível carregar a imagem,tente novamente." width="300" height="300">
+            </div>
+        </div>
+    </div>
+
+    <div id="metas"> <h1 class="titulometas"> METAS </h1> </div>
+    <div class="parte3"> 
+        
+        <div class="nov1 nov">
+            <h3 class="titulos3"> 9.1 </h3>
+            <p> Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, incluindo infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano, com foco no acesso equitativo e a preços acessíveis para todos </p>
+            <img src="./img/infraes.png">
+        </div>
+
+        <div class="nov2 nov"> 
+            <h3 class="titulos3"> 9.2 </h3>
+            <p> Promover a industrialização inclusiva e sustentável e, até 2030, aumentar significativamente a participação da indústria no setor de emprego e no PIB, de acordo com as circunstâncias nacionais, e dobrar sua participação nos países menos desenvolvidos </p>
+            <img src="./img/9.2.png">
+        </div>
+
+        <div class="nov3 nov"> 
+            <h3 class="titulos3"> 9.3 </h3>
+            <p> Aumentar o acesso das pequenas indústrias e outras empresas, particularmente em países em desenvolvimento, aos serviços financeiros, incluindo crédito acessível e sua integração em cadeias de valor e mercados </p>
+            <img src="./img/9.3.png">
+        </div>
+        
+
+        <div class="nov4 nov"> 
+            <h3 class="titulos3"> 9.4 </h3>
+            <p class="parag"> Até 2030, modernizar a infraestrutura e reabilitar as indústrias para torná-las sustentáveis, com eficiência aumentada no uso de recursos e maior adoção de tecnologias e processos industriais limpos e ambientalmente corretos; com todos os países atuando de acordo com suas respectivas capacidades </p>
+            <img src="./img/9.4.png">
+        </div>
+
+
+        <div class="nov5 nov">  
+            <h3 class="titulos3"> 9.5 </h3>
+            <p class="parag"> Fortalecer a pesquisa científica, melhorar as capacidades tecnológicas de setores industriais em todos os países, particularmente os países em desenvolvimento, inclusive, até 2030, incentivando a inovação e aumentando substancialmente o número de trabalhadores de pesquisa e desenvolvimento por milhão de pessoas e os gastos público e privado em pesquisa e desenvolvimento </p>
+            <img src="./img/9.5.png">
+        </div>
+       
+        <div class="nova nov"> 
+            <h3 class="titulos3"> 9.a </h3>
+            <p class="parag"> Facilitar o desenvolvimento de infraestrutura sustentável e resiliente em países em desenvolvimento, por meio de maior apoio financeiro, tecnológico e técnico aos países africanos, aos países menos desenvolvidos, aos países em desenvolvimento sem litoral e aos pequenos Estados insulares em desenvolvimento </p>
+            <img src="./img/9a.png">
+        </div>
+
+
+        <div class="novb nov"> 
+            <h3 class="titulos3"> 9.b </h3>
+            <p> Apoiar o desenvolvimento tecnológico, a pesquisa e a inovação nacionais nos países em desenvolvimento, inclusive garantindo um ambiente político propício para, entre outras coisas, a diversificação industrial e a agregação de valor às commodities </p>
+            <img src="./img/9b.png">
+        </div>
+
+
+        <div class="novc nov"> 
+            <h3 class="titulos3"> 9.c </h3>
+            <p> Aumentar significativamente o acesso às tecnologias de informação e comunicação e se empenhar para oferecer acesso universal e a preços acessíveis à internet nos países menos desenvolvidos, até 2030 </p>
+            <img src="./img/9c.png">
+        </div>
+
+    </div>
+
+    
+    <div class="parte4"> 
+        <div id="cmj"> <h1 class="titulocmj"> COMO AJUDAR? </h1>
+        </div>
+        <div class="cmj4"> 
+            <h2 class="cmh2"> Como posso ajudar para promover a ODS#9? </h2>
+                <div class="tex">
+                    <div class="cm3">
+                        <h1 class="cmh1"> 1. Para empresas: </h1>
+                        <p class="pcm">  Podem investir em práticas industriais sustentáveis, adotar tecnologias limpas, e fomentar a pesquisa e inovação, priorizando também a inclusão social. </p>
+                    </div> 
+                    <div class="cm3"> 
+                        <h1 class="cmh1"> 2. Para os cidadãos: </h1>
+                        <p class="pcm"> Podem apoiar empresas inovadoras e sustentáveis, exigir políticas públicas que priorizem infraestrutura de qualidade, e promover o uso de tecnologias limpas no dia a dia.</p>
+                    </div>
+                    <div class="cm3"> 
+                        <h1 class="cmh1"> 3. Para todos: </h1>
+                        <p class="pcm"> Mantenha-se informado e conscientize o outro! </p>
+                    </div>
+                 
+                    <div class="ima"> 
+                        <img src="./img/pexels-pixabay-325944.jpg" width="200px" height="200px">
+                    </div>
+                </div>  
+        </div>   
+    </div>
+
+
+    <div class="parte5"> 
+        <div id="duvidas"> <h1 class="titulod"> DÚVIDAS </h1> </div>
+         <h2 class="dvd"> Principais dúvidas sobre a ODS#9 </h1>
+            <div class="dv5">
+                <div class="duv"> 
+                    <h1 class="dv1"> Quais são os desafios enfrentados pela ODS 9? </h1>
+                    <p class="pdv">  - Falta de investimentos em inovação e tecnologia. - Infraestruturas precárias em países em desenvolvimento. - Desigualdade no acesso a recursos e tecnologias avançadas. </p>
+                </div>
+                <div class="duv2"> 
+                    <h1 class="dv1"> Como a industrialização inclusiva ajuda na redução da pobreza? </h1>
+                    <p class="pdv">  Ela cria empregos dignos, promove o crescimento econômico em comunidades desfavorecidas e aumenta a distribuição equitativa de recursos e oportunidades.</p>
+                </div>
+                <div class="duv3"> 
+                    <h1 class="dv1"> O que é uma infraestrutura resiliente?  </h1>
+                    <p class="pdv"> É uma infraestrutura capaz de resistir e se adaptar a crises, desastres naturais e mudanças climáticas, garantindo a continuidade dos serviços essenciais. </p>
+                </div>
+                <div class="duv4"> 
+                    <h1 class="dv1"> O que significa promover "industrialização sustentável"?  </h1>
+                    <p class="pdv"> Significa adotar processos industriais que minimizem impactos ambientais, utilizem recursos de forma eficiente e contribuam para o bem-estar social e econômico. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="parte6">
+        <div id="saibamais"> <h1 class="titulosm"> SAIBA MAIS </h1> </div>
+            <div class="liks"> 
+                <div class="spotify">
+                <img src="./img/spotify.png" height="80px" width="80px"> 
+                <a href="https://open.spotify.com/episode/7c0licVUVhMwVP6G4oKOn8?si=bf15fcc19d38441d"> Ouça </a>
+                <p class="ps"> Ouça um podcast sustentável! </p>
+                </div>
+
+
+                <div class="yt">
+                <iframe src="https://youtu.be/ghQZfF0nEdQ?si=reQak6T99ap6AQ3E"> </iframe>
+                <a href="https://youtu.be/ghQZfF0nEdQ?si=reQak6T99ap6AQ3E"> Assista </a>
+                <p class="ps"> Assista um vídeo sobre a ODS#9, do canal oficial do IBGE. </p>
+                </div>
+
+
+                <div class="site">
+                <img src="./img/nacoes-unidas.png" height="100px" width="100px">
+                <a href="https://brasil.un.org/pt-br/sdgs/9"> Leia </a>
+                <p class="ps"> Leia as informações no site das Nações Unidas do Brasil. </p>
+                 </div>
+            </div>
+        </div>  
+    </div>
+</body>
+</html>
