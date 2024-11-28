@@ -1,0 +1,560 @@
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+.parte1 { 
+    background-image: url("img/capa.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    width: 100%;
+    height: 500px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    margin: 0;
+}
+
+.header {
+    background-image: url("./img/copia\ 2.jpg");
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content:baseline;
+    gap: 20px;
+}
+
+.inc {
+    display: flex;
+    justify-content: start;
+}
+
+.inc img {
+    display: flex;
+    justify-content: start;
+    margin-right: 250px;
+}
+
+
+.rest {
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    margin-left: 30%;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    transition: 1s;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    
+}
+
+a:hover {
+    font-size: 20px;
+    transition: 1s;
+}
+
+.paginainc a {
+    color:aliceblue
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+}
+
+
+
+.lowtitle {
+    font-size: 10px;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    margin-left: 20px
+    
+}
+
+h1.titulo1 {
+   color: aliceblue;
+   font-size: 20px;
+   margin-left: 10px; 
+   
+}
+
+.parte2 {
+    background-color: white;
+    border: 10px;
+    width: 100%;
+    margin: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+
+
+.paragrafo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    gap: 20px;
+}
+
+.paragrafo div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    width: 40%;
+    font-size: 40px ;
+}
+
+.imagem { 
+    display: flex;
+    align-items: right;
+    margin-left: 70%;
+    gap: 20x;
+    width: 50%;
+    height: 50%;
+}
+
+.titulo2 {
+    font-size: 28px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+
+.titulometas {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: Gainsboro;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-left: 20px;
+ 
+}
+
+.parte3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    gap: 34px;
+    background-color: Gainsboro;
+}
+
+
+.parag p {
+    font-size: 15px;
+} 
+
+.nov {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border-radius: 24px;
+    height: 450px;
+    text-align: justify;
+    
+}
+.nov1 {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+.nov2  { 
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+.nov3 {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+
+.nov4 {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+
+
+.nov5 {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+.nova {
+    background-color: #FF7F50;
+    margin-left: 18%;
+   
+}
+
+.novb {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+.novc {
+    background-color: #FF7F50;
+    margin-left: 18%;
+}
+
+
+
+.titulos3 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.parte3 img {
+    width: 80px;
+    height: 80px ;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+
+
+.parte4 {
+    background-color: white;
+    margin: 0;
+    width: 100%;
+    height: 650px;
+    padding: 25px;
+    margin-bottom: 15px;
+
+}
+
+.titulocmj {
+    text-align: center;
+    font-size: 40px;
+    color:#FF7F50;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.tex {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 10px;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.tex p {
+    display: grid;
+    width: 300px;
+}
+
+.tex img {
+    display: grid;
+    width: 300px;
+}
+
+
+
+.cmh2 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-left: 30%;
+
+}
+
+
+.cmh1 {
+    color: black;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.pcm {
+   margin-right: 50%;
+}
+
+.img4 {
+    margin-left: 50%;
+    margin-bottom: 50%;
+}
+
+
+.parte5 {
+    background-image: url(img/pexels-pixabay-371917.jpg);
+    margin: 0;
+    width: 100%;
+    height: 600px;
+}
+
+
+
+.titulod {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.dv5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    margin-left: 10px;
+    gap: 20px;
+    height: 150px;
+}
+
+
+.duv {
+    margin-top: 10%;
+}
+
+.duv p {
+    margin-left: 15%;
+    width: 250px
+
+}
+
+.duv2 {
+    margin-top: 30%;
+}
+
+.duv2 p {
+    margin-left: 15%;
+    width: 250px;
+}
+
+.duv3 {
+    margin-top: 10%;
+}
+
+.duv3 p {
+    margin-left: 15%;
+    width: 250px;
+}
+
+.duv4 {
+    margin-top: 30%;
+    margin-left: 10px;
+}
+
+.duv4 p {
+    margin-left: 15%;
+    width: 250px;
+
+}
+
+
+
+.dvd {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-left: 20px;
+    
+}
+
+.dv1 {
+    margin-left: 10px;
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.pdv {
+    color: white;
+    margin-top: 10px;
+}
+
+.parte6 {
+    background-color:black;
+    margin: 0;
+    width: 100%;
+    height: 550px;
+    padding: 25px;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;  
+}
+
+.titulosm {
+    text-align: center;
+    font-size: 40px;
+    color:#ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.liks {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 350px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.ps {
+    color: white;
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.spotify {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.spotify img {
+    margin-left: 70px;
+}
+
+
+.spotify a {
+
+    padding: 20px;
+    background: #f15f2a;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px;
+    margin-left: 70px;
+
+   
+}
+
+.spotify a:hover {
+    padding: 40px;
+    background: #FF7F50;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px;
+    margin-left: 70px;
+
+}
+
+.spotify p {
+    margin-left: 70px;
+}
+
+
+.yt {
+    margin-left: 20px;
+    margin-bottom: 40px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.yt a {
+    padding: 20px;
+    background: #f15f2a;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px;
+    align-items: center;
+
+    
+
+}
+
+.yt a:hover {
+    padding: 40px;
+    background: #FF7F50;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px;
+    align-items: center;
+  
+}
+
+iframe {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.site {
+    margin-right: 150%;
+
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.site a {
+    padding: 20px;
+    background: #f15f2a;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px; 
+
+    
+
+}
+
+.site a:hover {
+    padding: 40px;
+    background: #FF7F50;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 1s ease-in-out;
+    border-radius: 10px;
+}
+
+
+.site p {
+    justify-items: left;
+}
+
+
+
+@media screen and (max-width: 920px) {
+    .paragrafo {
+        display: block;
+        margin: 0;
+        flex-direction: row;
+        justify-content: center;
+        align-items:stretch;
+        gap: 20px;
+    }
+} 
